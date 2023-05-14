@@ -9,7 +9,6 @@ Currently i am reading in CSE at Rajshahi University of Engineering and Technolo
 ## 2.Experience:
   * I have developed a tpp game using `Unreal Engine 4`. This games name is Maze Walker. There is a twist in the ending of every level.
   * In my 5th semester i have done some projects on various machine learning algorithm.
-  * 
 <!---
 oitik/oitik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
